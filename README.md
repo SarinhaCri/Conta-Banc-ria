@@ -26,8 +26,7 @@ Para rodar este projeto, você precisa ter o **Java** instalado em sua máquina.
 
 1️⃣ **Clone o repositório**  
 
-git clone https://github.com/seu-usuario/ContaBanco.git
-
+git clone https://github.com/SarinhaCri/Conta-Banc-ria.git
 2️⃣ **Acesse a pasta do projeto**  
 
    cd ContaBanco
@@ -55,11 +54,11 @@ java ContaTerminal
 ###🎯 Exemplo de saída
 
 Digite o Número da Conta:
-> 987147
+987147
 Digite a Agência:
-> 067-8
+067-8
 Digite o Nome impresso no Cartão:
-> Sara Cristina
+Sara Cristina
 Pressione ENTER para visualizar o Saldo:
 
 Olá Mario Andrade, obrigado por criar uma conta em nosso banco.
