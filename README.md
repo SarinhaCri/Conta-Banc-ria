@@ -38,7 +38,7 @@ javac ContaTerminal.java
 java ContaTerminal
 
 
-#### Funcionalidade do Projeto
+## Funcionalidade do Projeto
 
 ✔️ Solicita número da conta (máximo de 6 dígitos).
 
