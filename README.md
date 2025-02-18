@@ -41,9 +41,13 @@ java ContaTerminal
 #### Funcionalidade do Projeto
 
 ✔️ Solicita número da conta (máximo de 6 dígitos).
+
 ✔️ Solicita número da agência (máximo de 5 caracteres).
+
 ✔️ Captura o nome do cliente.
+
 ✔️ Exibe o saldo inicial da conta.
+
 ✔️ Exibe mensagem final de confirmação.
 
 
