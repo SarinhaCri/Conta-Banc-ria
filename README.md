@@ -21,19 +21,19 @@ O **ContaBanco** é um sistema interativo que recebe os dados do usuário pelo t
 ### **Pré-requisitos**  
 Para rodar este projeto, você precisa ter o **Java** instalado em sua máquina.  
 
-1️⃣ **Clone o repositório**  
+1️ - **Clone o repositório**  
 
 git clone https://github.com/SarinhaCri/Conta-Banc-ria.git
 
-2️⃣ **Acesse a pasta do projeto**  
+2️ - **Acesse a pasta do projeto**  
 
    cd ContaBanco
 
-3️⃣ **Compile o código**
+3️ - **Compile o código**
 
 javac ContaTerminal.java
 
-4️⃣ **Eecute o programa**
+4️ - **Eecute o programa**
 
 java ContaTerminal
 
