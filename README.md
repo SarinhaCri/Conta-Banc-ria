@@ -2,13 +2,11 @@
 
 Um programa simples em Java que permite ao usuário criar uma conta bancária via terminal, inserindo informações como número da conta, agência e nome do cliente.
 
----
 
 ## 📌 Sobre o projeto
 
 O **ContaBanco** é um sistema interativo que recebe os dados do usuário pelo terminal e exibe uma mensagem de confirmação com os detalhes da conta criada.
 
----
 
 ## Tecnologias utilizadas
 
@@ -17,7 +15,6 @@ O **ContaBanco** é um sistema interativo que recebe os dados do usuário pelo t
 - **Try-with-resources** - Para garantir o fechamento do Scanner  
 - **Validação de entrada** - Limite de caracteres para conta e agência  
 
----
 
 ## Como executar o projeto
 
@@ -39,7 +36,6 @@ javac ContaTerminal.java
 
 java ContaTerminal
 
----
 
 #### Funcionalidade do Projeto
 
@@ -49,9 +45,8 @@ java ContaTerminal
 ✔️ Exibe o saldo inicial da conta
 ✔️ Exibe mensagem final de confirmação
 
----
 
-###🎯 Exemplo de saída
+### 🎯 Exemplo de saída
 
 Digite o Número da Conta:
 987147
@@ -69,7 +64,7 @@ Sua agência é 067-8, conta 123456 e seu saldo R$237.48 já está disponível p
 🔗 www.linkedin.com/in/sara-cristina-viana-rocha-432707252
 📧 sara.crys2002@gmail.com
 
-📌 Feito por Sara Cristina 💙 
+# 📌 Feito por Sara Cristina 💙 
 ---
 
 Caso queira modificar algo, me avise! 😊
