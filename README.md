@@ -70,7 +70,7 @@ Pressione ENTER para visualizar o Saldo:
 
 Olá Mario Andrade, obrigado por criar uma conta em nosso banco.
 
-Sua agência é 067-8, conta 123456 e seu saldo R$237.48 já está disponível para saque.
+Sua agência é 067-8, conta 987147 e seu saldo R$237.48 já está disponível para saque.
 
 ---
 
