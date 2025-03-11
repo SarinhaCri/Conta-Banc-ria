@@ -53,20 +53,11 @@ java ContaTerminal
 
 ### Exemplo de saída
 ```
-Digite o Número da Conta:
-
-987147
-
-Digite a Agência:
-
-067-8
-
-Digite o Nome impresso no Cartão:
-
-Sara Cristina
+Digite o Número da Conta: 987147
+Digite a Agência:067-8
+Digite o Nome impresso no Cartão: Sara Cristina
 
 Pressione ENTER para visualizar o Saldo:
-
 
 Olá Sara Cristina, obrigado por criar uma conta em nosso banco.
 
