@@ -52,7 +52,7 @@ java ContaTerminal
 
 
 ### Exemplo de saída
-
+```
 Digite o Número da Conta:
 
 987147
@@ -71,7 +71,7 @@ Pressione ENTER para visualizar o Saldo:
 Olá Sara Cristina, obrigado por criar uma conta em nosso banco.
 
 Sua agência é 067-8, conta 987147 e seu saldo R$237.48 já está disponível para saque.
-
+```
 ---
 
 🔗 www.linkedin.com/in/sara-cristina-viana-rocha-432707252
